@@ -1,12 +1,11 @@
 ---
-title: "Tunable shape memory polyurethane networks cross-linked by 1, 3, 5, 7-tetrahydroxyadamantane"
+title: "Shape memory polyurethanes with UV light-triggered deformation and water-induced recovery"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Jiaping Zhu
 - Shaojun Chen
 
 # Author notes (optional)
@@ -14,24 +13,25 @@ author_notes:
 - 
 - 
 - "Corresponding authors"
-
-date: "2018-06-25T00:00:00Z"
+date: "2019-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
+
 publishDate: "2021-03-22T00:00:00Z"
+
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Macromolecular Research*
-publication_short: In *Macromolecular Research*
+publication: In *Materials Today:Proceedings*
+publication_short: In *Materials Today:Proceedings*
 
-abstract: A novel adamantane-based polyurethane (AdPU) was synthesized via efficient ring-opening polymeriza- tion of 1,3,5,7-tetrahydroxyadamantane with e-caprolactone followed by one-step polymerization of poly(e-caprolactone) (PCL2000) with 1,6-hexamethylene diisocyanate (HDI). The incorporation of 1,3,5,7-tetrahydroxyadamantane enhanced the thermal stability of AdPU. It was found that AdPU was composed of a crystalline soft phase and an amorphous hard phase; and the aggregation of segments could form nano-sized crystal fibers by controlling the drying conditions. Finally, shape memory effect tests showed that AdPU has thermal-induced shape memory effect with good shape fixation and 85% shape recovery. This work opens a new avenue to design polyurethane frameworks with cubic geometry structure for shape memory applications.
+abstract: Shape memory polyurethanes (SMPUs), which have fast been developing lately, can transfer back to the original shape from their temporary shapes upon stimulus, such as light, electricity, heat, humidity, magnetic, and chemical environment. Though light acts as a clean and non-contact stimulus for inducing changes in temporary shapes, light-induced deformations cannot be fixed under our ambient conditions. Herein, a new kind of shape memory polyurethanes was prepared by chemically cross-linking of polyethylene glycol and 4,4′-dihydroxyazobenzene with 1,3,5,7-tetrahydroxyadamantane in one-step method. The sythesized SMPUs are capable of shape deformation under ultraviolet-light (UV-light) and shape fixation in visible light and then the original shape can be recovered in room temperature water. Owing to the outstanding UV-light and water effect of SMPUs, the SMPUs exhibit a rapid UV-light response shape memory process and a rapid recovery in water with the 4,4′-dihydroxyazobenzene content of 3.1 wt%. The study of the versatility of the synthesized SMPUs can expands the current understanding of the multi-stage stimuli-responsive features in both light- and water- induced SMPUs, illuminating a new mechanism of multi-stage stimuli-responsive shape memory effects.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -58,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: '[Thermo-responsive shape memory process of PUs at 37 oC (a) PU1, (b) PU2, and (c) PU3.](featured.png)'
+  caption: '[Water-induced shape recovery of AdAzoSMPU4.](featured.png)'
   focal_point: ""
   preview_only: false
 
