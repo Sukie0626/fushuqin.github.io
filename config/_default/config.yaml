@@ -5,7 +5,7 @@
 
 title: Shuqin Fu # Website name
 baseurl: '.' # Website URL
-copyright: '© {2021} Shuqin Fu' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Shuqin Fu' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
