@@ -1,5 +1,5 @@
 ---
-title: "A novel adamantane-based polyurethane with shape memory effect"
+title: "Shape Memory Polyurethanes Based on Zwitterionic Hard Segments"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -32,8 +32,8 @@ publishDate: "2018-06-25T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Materials Letters*
-publication_short: In *Materials Letters*
+publication: In *Polymers*
+publication_short: In *Polymers*
 
 abstract: A novel adamantane-based polyurethane (AdPU) was synthesized via efficient ring-opening polymeriza- tion of 1,3,5,7-tetrahydroxyadamantane with e-caprolactone followed by one-step polymerization of poly(e-caprolactone) (PCL2000) with 1,6-hexamethylene diisocyanate (HDI). The incorporation of 1,3,5,7-tetrahydroxyadamantane enhanced the thermal stability of AdPU. It was found that AdPU was composed of a crystalline soft phase and an amorphous hard phase; and the aggregation of segments could form nano-sized crystal fibers by controlling the drying conditions. Finally, shape memory effect tests showed that AdPU has thermal-induced shape memory effect with good shape fixation and 85% shape recovery. This work opens a new avenue to design polyurethane frameworks with cubic geometry structure for shape memory applications.
 

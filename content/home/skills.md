@@ -5,7 +5,7 @@ widget: featurette
 
 # This file represents a page section.
 headless: true
-
+active: true
 # Order that this section appears on the page.
 weight: 30
 
@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 100%
   icon: dna
   icon_pack: fas
   name: Polymers
