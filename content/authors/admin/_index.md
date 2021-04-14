@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sukie Fu
+title: Shuqin Fu
 
 # Is this the primary user of the site?
 superuser: true
