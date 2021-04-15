@@ -16,14 +16,22 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+- description: 
+  icon: flask
+  icon_pack: fas
+  name: Organic synthesis
 - description: 100%
   icon: dna
   icon_pack: fas
   name: Polymers
-- description: 100%
-  icon: atom
+- description: structure and property characterization
+  icon: microscope
   icon_pack: fas
   name: Characterization
+- description: structure and property characterization
+  icon: synthesis
+  icon_pack: custom
+  name: Analytics
 - description: 100%
   icon: pen
   icon_pack: fas

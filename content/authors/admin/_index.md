@@ -6,7 +6,7 @@ title: Shuqin Fu
 superuser: true
 
 # Role/position/tagline
-role: Looking for a postdoctoral position in Cambridge.
+role: Looking for a research associate/scientist position in Cambridge
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,15 +14,14 @@ organizations:
   url: https://en.szu.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently living in Cambridge and looking for a postdoctoral position in Cambridge. Before that, I was a Postdoctoral Researcher at Shenzhen University.
-
+bio: Doctor of Engineering in Chemical Engineering and Technology, interested in multidisciplinary research, biotechnology, smart biomaterials, stimuli-responsive polymers, shape memory polymers,  microporous frameworks. Passionate about science, with strong technical, innovative and interpersonal skills for working in a team, successfully completed scientific research projects, published related research papers.
 # Interests to show in About widget
 interests:
+- Smart biomaterials
 - Stimuli-responsive polymers
-- Smart material systems
 - Shape memory polymers
 - Microporous frameworks
-- Flame retardants and surfactants.
+- Surfactants
 
 # Education to show in About widget
 education:
@@ -42,18 +41,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/fushuqin
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Shuqin-Fu
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?hl=en&user=r0EilF0AAAAJ&view_op=list_works
-- icon: github
-  icon_pack: fab
-  link: https://github.com/fushuqin
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/shuqin-fu-33066686
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/fushuqin
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -69,6 +68,6 @@ email: "fushuqin@hotmail.com"
 highlight_name: false
 ---
 
-I am currently living in Cambridge and looking for a postdoctoral position or researcher related to chemical engineering or materials science in Cambridge. Before that, I was a Postdoctoral Researcher at the College of Materials Science and Engineering of Shenzhen University, working with Professor Shaojun Chen. I obtained my Ph.D in chemical engineering from Guangdong University of Technology in June 2016, working with Professor Jianwei Guo and Dongyu Zhu.
+I am currently living in Cambridge and looking for a research associate or scientist position related to chemical engineering or materials science in Cambridge. Before that, I was a Postdoctoral Researcher at the College of Materials Science and Engineering in Shenzhen University, working with Professor Shaojun Chen. I obtained my Doctor of Engineering degree in chemical engineering from Guangdong University of Technology in June 2016, working with Professor Jianwei Guo. I am also interested in multidisciplinary research. I am passionate about science with strong technical, innovative and interpersonal skills for working in a team. I have successfully completed several scientific research projects and published related research papers.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
