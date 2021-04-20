@@ -22,26 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Mother
-    company: Self-employed
-    company_url: ''
-    location: Shenzhen, China
-    date_start: '2019-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        * Give birth to a baby
-        * Caring for the baby
-  - title: Postdoctoral Researcher
+  - title: Postdoctor
     company: Shenzhen University
     company_url: ''
     location: Shenzhen, China
-    date_start: '2016-08-01'
+    date_start: '2016-07-25'
     date_end: '2019-01-01'
     description: |2-
         Responsibilities include:
-        * Analysing
-        * Modelling
-        * Deploying
+        * Conducted research projects
+        * Published research papers
+        * Assisted in the supervision of student projects
+        * Builded communications between internal and external of laboratory
+        * Planned the use of research resources, laboratories and workshop
         
 ---
