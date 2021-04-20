@@ -17,29 +17,22 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 
-  icon: flask
-  icon_pack: fas
-  name: Organic synthesis
-- description: 100%
-  icon: dna
-  icon_pack: fas
-  name: Polymers
-- description: structure and property characterization
-  icon: microscope
-  icon_pack: fas
-  name: Characterization
-- description: structure and property characterization
-  icon: synthesis
+  icon: Organic Synthesis
   icon_pack: custom
-  name: Analytics
-- description: 100%
-  icon: pen
-  icon_pack: fas
+  name: Organic synthesis
+- description: 
+  icon: Characterization 1
+  icon_pack: custom
+  name: Characterization
+- description: 
+  icon: data analysis (2)
+  icon_pack: custom
+  name: Data Analytics
+- description: 
+  icon: edit-writing-svgrepo-com
+  icon_pack: custom
   name: Scientific Writing
-- description: 100%
-  icon: vial
-  icon_pack: fas
-  name: Chemical Engineering
+
 
 
 # Uncomment to use emoji icons.
